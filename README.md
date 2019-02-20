@@ -1,9 +1,8 @@
 # Verified.ninja Web Application
 
 > This project is clone from [webapp repository](https://github.com/verifiedninja/webapp) and modify that
-
-1. Move and append package to packages folder of project
-2. Add daemon code when run application as daemon
+> 1. Move and append package to packages folder of project
+> 2. Add daemon code when run application as daemon
 
 ```
 #!/bin/bash
